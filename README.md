@@ -1,2 +1,2 @@
-# movie-review-classification
- IMDB moview review classification using TensorFlow
+# Movie Review Classification
+ IMDB moview review classification using TensorFlow.
