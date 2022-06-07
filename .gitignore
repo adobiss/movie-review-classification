@@ -48,5 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/movie-review-classification-checkpoint.ipynb
 .ipynb_checkpoints/BERT_text_classification-checkpoint.ipynb
+
+# Datasets
+aclImdb/
